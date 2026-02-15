@@ -18,14 +18,14 @@ Built with Python and the `rich` library, it displays CPU, RAM, disk usage, and 
 ## Requirements
 
 - Python 3  
-- `psutil`  
-- `rich`
+- psutil  
+- rich
 
 Install dependencies:
 
-\`\`\`bash
+```bash
 pip install psutil rich
-\`\`\`
+
 
 ## Run the dashboard
 
