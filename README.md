@@ -21,17 +21,17 @@ Built with Python and the `rich` library, it displays CPU, RAM, disk usage, and 
 - psutil  
 - rich
 
-Install dependencies:
+## Install dependencies
 
 ```bash
 pip install psutil rich
-
+```
 
 ## Run the dashboard
 
-\`\`\`bash
+```bash
 python3 system_dashboard.py
-\`\`\`
+```
 
 Press **Ctrl + C** to exit.
 
